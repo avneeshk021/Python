@@ -1,2 +1,1 @@
-print(type(dic))
-# print(len(dic))
+print(txt2)

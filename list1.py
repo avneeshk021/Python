@@ -19,8 +19,8 @@ list2=['1','5','3','2','4','7']
 # print(list)
 # list.pop(0)
 # print(list)
-# list.remove("Hello")
-# print(list)
+list.remove('A')
+print(list)
 # list.clear(1)
 # print(list)
 # for i in range(len(list)):
