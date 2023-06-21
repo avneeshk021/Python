@@ -1,1 +1,2 @@
-print(tuple)
+print(type(dic))
+# print(len(dic))
