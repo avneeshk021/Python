@@ -25,6 +25,11 @@ for i in txt3:
 for i in txt2:
     print(i[0])
 
+var="Hello"
+print(var.lower())
+print(var.upper())
+print(var.replace("H","A"))
+
 
 
 
